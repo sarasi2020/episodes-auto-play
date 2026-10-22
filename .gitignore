@@ -1,0 +1,10 @@
+# Student logins (plain-text passwords) - keep local only
+students.js
+students-*.js
+!students.example.js
+
+# Local run logs (your test runs; the script reads them for the 10-episode limit)
+results/
+
+# Your own episode lists (may contain test usernames)
+episodes-local.csv
